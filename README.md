@@ -64,5 +64,141 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-pyungyo-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://pyungyo.com/
+평생요금제닷컴은 알뜰폰 통신사 공식 홈페이지를 하루 다섯 번 확인해 평생 할인·정가 요금제와 기간 할인 요금제를 원문 그대로 옮기는 비교 서비스입니다. 게시값을 매일 공식 화면과 대조해 정확성을 공개하며, 무료 인증 없이 실시간 OpenAPI를 제공해 개발자들이 요금제 데이터를 손쉽게 조회할 수 있도록 지원합니다. 이 서비스는 한국의 다양한 MVNO와 통신사 요금제를 포괄적으로 비교하고, 최신 가격 변동과 시장 통계 정보를 제공함으로써 소비자와 개발자 모두에게 투명한 정보를 제공합니다.
+
+**Areas:** Company · telecom · mobile · Korea · price-comparison · open-api
+
+## pyungyo-com on APIs.io
+
+Everything profiled for pyungyo-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/pyungyo-com/](https://apis.io/providers/pyungyo-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (9)
+
+- [pyungyo-com Carriers API](https://apis.io/apis/pyungyo-com/pyungyo-com-carriers-api/) — The Carriers API from pyungyo-com — 1 operation(s) for carriers.
+- [pyungyo-com Changes API](https://apis.io/apis/pyungyo-com/pyungyo-com-changes-api/) — The Changes API from pyungyo-com — 1 operation(s) for changes.
+- [pyungyo-com Cheapest API](https://apis.io/apis/pyungyo-com/pyungyo-com-cheapest-api/) — The Cheapest API from pyungyo-com — 1 operation(s) for cheapest.
+- [pyungyo-com Index API](https://apis.io/apis/pyungyo-com/pyungyo-com-index-api/) — The Index API from pyungyo-com — 1 operation(s) for index.
+- [pyungyo-com Meta API](https://apis.io/apis/pyungyo-com/pyungyo-com-meta-api/) — The Meta API from pyungyo-com — 1 operation(s) for meta.
+- [pyungyo-com Plans API](https://apis.io/apis/pyungyo-com/pyungyo-com-plans-api/) — The Plans API from pyungyo-com — 3 operation(s) for plans.
+- [pyungyo-com Search API](https://apis.io/apis/pyungyo-com/pyungyo-com-search-api/) — The Search API from pyungyo-com — 1 operation(s) for search.
+- [pyungyo-com Ssal API](https://apis.io/apis/pyungyo-com/pyungyo-com-ssal-api/) — The Ssal API from pyungyo-com — 1 operation(s) for ssal.
+- [pyungyo-com Stats API](https://apis.io/apis/pyungyo-com/pyungyo-com-stats-api/) — The Stats API from pyungyo-com — 1 operation(s) for stats.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Pyungyo Com Agentic Access](https://apis.io/agentic-access/pyungyo-com/pyungyo-com-agentic-access/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [Plan](https://apis.io/schemas/pyungyo-com/pyungyo-com-plan/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Pyungyo Com Context](https://apis.io/jsonld/pyungyo-com/pyungyo-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [pyungyo-com API Rules](https://apis.io/rules/pyungyo-com/pyungyo-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Pyungyo Com Authentication](https://apis.io/security/pyungyo-com/pyungyo-com-authentication/)
+- [Pyungyo Com Domain Security](https://apis.io/security/pyungyo-com/pyungyo-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Pyungyo Com Scopes](https://apis.io/scopes/pyungyo-com/pyungyo-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Pyungyo Com Plans Pricing](https://apis.io/plans/pyungyo-com/pyungyo-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Pyungyo Com Rate Limits](https://apis.io/rate-limits/pyungyo-com/pyungyo-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://pyungyo.com/)
+- [Documentation](https://pyungyo.com/developers/)
+- [API reference](https://pyungyo.com/developers/)
+- [Blog](https://pyungyo.com/blog/)
+- [Terms of service](https://pyungyo.com/terms.html)
+- [Privacy policy](https://pyungyo.com/privacy.html)
+
+## API Evangelist rating
+
+**Kin Score 39.5** — developing · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 65.0 |
+| Contract quality | 51.0 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 25.5 |
+| Access clarity | 21.1 |
+
+**Agent readiness 32.9** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | flavored (partial credit) |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 30.0** — Telecommunications
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/pyungyo-com/](https://apis.io/providers/pyungyo-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for pyungyo-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/pyungyo-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
